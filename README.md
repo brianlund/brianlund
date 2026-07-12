@@ -55,6 +55,6 @@ or PowerShell versions.
     Contributed a merged correction to ELBv2 deregistration diagnostics.
     [Merged PR #63](https://github.com/aws-samples/aws-codedeploy-samples/pull/63)
 
-## Elsewhere
+## Elsewhere and contact
 
 - [cze.dk](https://cze.dk)
