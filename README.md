@@ -15,8 +15,11 @@
 ### [Dreaming Logger](https://github.com/brianlund/ds-logger)
 
 A maintained Chrome extension for logging external language-learning activity.
-It is distributed through the Chrome Web Store and includes automated tests,
-linting, CI validation and release packaging.  
+It includes automated tests, linting, CI validation and release packaging.
+
+[Chrome Web Store](https://chromewebstore.google.com/detail/dreaming-logger/nkbiabkpjehnckfpjpidljhhdlcdnmjm)
+·
+[Source code](https://github.com/brianlund/ds-logger)
 
 ### [AWS Cost Summary](https://github.com/brianlund/aws_cost_summary)
 
