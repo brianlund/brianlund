@@ -45,8 +45,7 @@ or PowerShell versions.
 
 - **[lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl)** -
     Improved certificate-renewal scalability by persisting expiry metadata and
-    avoiding premature ACME renewal attempts. The work was tested
-    and run in production with more than houndred and twenty thousands of domains.
+    avoiding premature ACME renewal attempts. The work used in production with more than 120000 domains.
     [Merged PR #111](https://github.com/auto-ssl/lua-resty-auto-ssl/pull/111)
 
 - **[JetBrains TeamCity Helm Plugin](https://github.com/JetBrains/teamcity-helm-plugin)** -
