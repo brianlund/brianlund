@@ -12,6 +12,13 @@
 
 ## Selected projects
 
+### [Setup MongoDB Database Tools](https://github.com/brianlund/setup-mongodb-database-tools)
+
+A GitHub Action that installs `mongodump`, `mongorestore` and the other MongoDB
+Database Tools for MongoDB and Amazon DocumentDB workflows. It supports version
+pinning, verifies MongoDB's published SHA-256 checksums, caches installed tools
+and runs CI across Linux, macOS and Windows on supported x64 and ARM64 runners.
+
 ### [Dreaming Logger](https://github.com/brianlund/ds-logger)
 
 A maintained Chrome extension for logging external language-learning activity.
@@ -45,7 +52,7 @@ or PowerShell versions.
 
 - **[lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl)** -
     Improved certificate-renewal scalability by persisting expiry metadata and
-    avoiding premature ACME renewal attempts. The work used in production with more than 120000 domains.
+    avoiding premature ACME renewal attempts. The work was used in production with more than 120000 domains.
     [Merged PR #111](https://github.com/auto-ssl/lua-resty-auto-ssl/pull/111)
 
 - **[JetBrains TeamCity Helm Plugin](https://github.com/JetBrains/teamcity-helm-plugin)** -
