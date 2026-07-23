@@ -69,4 +69,4 @@ or PowerShell versions.
 - [cze.dk](https://cze.dk)
 
 ### Who are the unicorns?
-They are the price for having won both the main and the bonus competition at AWS Gameday Nordics, 2018.
+They are the price for having won both the main and the bonus competition at AWS Gameday Nordics.
